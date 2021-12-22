@@ -1,12 +1,14 @@
 # i_am_light
 
-I am light app - (supposed to be i am poor) my second flutter app
+I am light app - (supposed to be i am poor app challenge) my second flutter app, from the Complete Flutter Development Bootcamp by Angela Yu.
 
-## Getting Started
+## Project screenshot
+![i_am_light_shot](./images/I_am_light_shot.png)
 
-This project is a starting point for a Flutter application.
+## Image resources
+- Light icon from [Icons8](https://icons8.com/icon/QfpWr2gFM07s/light)
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter resources and doc
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
